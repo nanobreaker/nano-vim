@@ -1,7 +1,5 @@
-# NanoVim - A LazyVim Custom Configuration 
+# NANO-VIM
 
-## Configurations
-
-### Theme
-### NvimTree
-### BuffeLine
+![preview](./images/preview.png)
+## Description
+Will add later
