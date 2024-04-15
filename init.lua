@@ -7,7 +7,7 @@ require("lspconfig").jdtls.setup({
       configuration = {
         runtimes = {
           {
-            name = "openjdk21",
+            name = "openjdk-21",
             path = "/usr/lib/jvm/java-21-openjdk",
             default = true,
           },
